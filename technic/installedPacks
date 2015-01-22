@@ -1,0 +1,13 @@
+{
+  "installedPacks": {
+    "bigdig": {
+      "name": "bigdig",
+      "build": "recommended",
+      "directory": "%MODPACKS%\\bigdig"
+    }
+  },
+  "byIndex": [
+    "bigdig"
+  ],
+  "selected": "bigdig"
+}

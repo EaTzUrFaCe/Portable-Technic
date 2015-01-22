@@ -1,0 +1,12 @@
+{
+  "memory": 2,
+  "launchAction": "HIDE",
+  "buildStream": "stable",
+  "showConsole": false,
+  "languageCode": "default",
+  "clientId": "92b5d4ec-812b-40ab-86dd-caa1a40f31f4",
+  "directory": "portable",
+  "latestNewsArticle": 104,
+  "launchToModpacks": false,
+  "launcherSettingsVersion": "1"
+}
